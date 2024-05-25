@@ -1,0 +1,44 @@
+.size .left {
+  margin-left: 1rem;
+  width: 30%;
+  padding-right: 3rem;
+}
+.size {
+  width: 95%;
+}
+
+.size .right img {
+  width: 100%;
+  padding-left: 0.5rem;
+}
+
+.left-menu {
+  margin-left: 0rem;
+}
+
+/* navbar */
+
+.navbar {
+  margin-top: 130px;
+}
+
+.right-menu {
+  width: 70%;
+}
+
+.b-s .row .col a {
+  width: 105px;
+}
+
+.h-s h3 a {
+  font-size: 0.9rem;
+}
+
+.h-s span {
+  font-size: 0.7rem;
+}
+
+.h-s p {
+  font-size: 0.8rem;
+  margin-left: 5px;
+}

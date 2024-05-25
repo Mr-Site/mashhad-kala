@@ -1,0 +1,69 @@
+/* header */
+.size .right a {
+  width: 30%;
+}
+.size .right img {
+  width: 100%;
+}
+
+.size .right .input-group {
+  width: 70%;
+  height: 40px;
+}
+
+/* third-s */
+.c-s {
+  display: none;
+}
+
+/* the-9th-s */
+
+.h-s h3 a {
+  font-size: 0.8rem;
+}
+
+.h-s span {
+  font-size: 0.6rem;
+}
+
+.h-s p {
+  font-size: 0.7rem;
+}
+
+/* menu */
+.menu {
+  width: 90%;
+  height: 60px;
+  display: block;
+  position: fixed;
+  z-index: 999;
+  bottom: 0;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.menu .col {
+  margin-top: 10px;
+  transition: 0.3s ease-in-out;
+}
+
+.menu .col a {
+  margin: auto;
+  padding: 0.3rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  border-radius: 50%;
+  transition: 0.3s ease-in-out;
+}
+
+.menu .col a svg {
+  width: 15px;
+  height: 15px;
+}
+
+.menu .home {
+  transform: scale(1.05);
+  box-shadow: 0 0 10px #000;
+  background-color: rgba(13, 202, 240);
+  color: #fff;
+}

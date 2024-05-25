@@ -1,0 +1,68 @@
+/* header */
+
+#head-ad a #second-v {
+  display: block;
+  width: 100%;
+  margin: auto;
+}
+
+.size .right img {
+  width: 70%;
+}
+
+.size .right .input-group {
+  width: 80%;
+  height: 40px;
+  margin: auto;
+}
+
+/* first-s */
+#a-s {
+  margin-top: 180px;
+  flex-direction: column;
+}
+/* third-s */
+
+.c-s .col span {
+  font-size: 0.5rem;
+}
+
+/* the-7th-s */
+
+.g-s .row {
+  display: block;
+}
+
+.g-s .row div {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+/* the-9th-s */
+
+.h-s .row {
+  display: block;
+}
+
+.h-s .row .col {
+  width: 80%;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+.fs-4 .text-center .p-2 {
+  font-size: 1rem !important;
+}
+
+.h-s h3 a {
+  font-size: 0.9rem;
+}
+
+.h-s span {
+  font-size: 0.7rem;
+}
+
+.h-s p {
+  font-size: 0.8rem;
+  margin-left: 5px;
+}
